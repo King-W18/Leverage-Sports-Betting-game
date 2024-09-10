@@ -1,0 +1,32 @@
+/* wallet */
+.wallet-rectangle-1, .wallet-rectangle-2 {
+    fill: #FF003C;
+}
+
+.wallet-button:hover .wallet-rectangle-1 {
+    transform: translateY(28px);
+    fill: white;
+}
+
+.wallet-button:hover .wallet-rectangle-2 {
+    transform: translateY(44px);
+    fill: white;
+}
+
+/* .wallet-button:hover .wallet-rectangle-1 {
+    fill: white;
+}
+
+.wallet-button:hover .wallet-rectangle-2 {
+    fill: white;
+}
+
+@media screen and (min-width: 480px) {
+    .wallet-button:hover .wallet-rectangle-1 {
+        transform: translateY(28px);
+    }
+
+    .wallet-button:hover .wallet-rectangle-2 {
+        transform: translateY(44px);
+    }
+} */
